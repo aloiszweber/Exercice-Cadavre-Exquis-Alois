@@ -6,3 +6,9 @@ Je suis sorti de ma :tent: pour l'aider.......
 ##Ceci est notre premier exercice de groupe
 **Essai**
 Premier essai 
+
+# Texte de Stéphane n1
+Mais le lac était profond  
+et la grenouille voullait  
+aller de l'autre côté
+
