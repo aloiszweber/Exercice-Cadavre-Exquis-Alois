@@ -12,3 +12,12 @@ Mais le lac était profond
 et la grenouille voullait  
 aller de l'autre côté
 
+
+
+
+# Exercice cadavre exquis Caroline  
+
+##Ceci est notre premier exercice de groupe  
+
+**Essai**
+Premier essai 
